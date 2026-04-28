@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\bin\Debug\net8.0\exercicioDia28-04.exe
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\bin\Debug\net8.0\exercicioDia28-04.deps.json
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\bin\Debug\net8.0\exercicioDia28-04.runtimeconfig.json
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\bin\Debug\net8.0\exercicioDia28-04.dll
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\bin\Debug\net8.0\exercicioDia28-04.pdb
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.sourcelink.json
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.dll
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\refint\exercicioDia28-04.dll
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.pdb
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\exercicioDia28-04.genruntimeconfig.cache
+C:\Users\fic\Desktop\exercicioscsharp\exercicioDia28-04\obj\Debug\net8.0\ref\exercicioDia28-04.dll
