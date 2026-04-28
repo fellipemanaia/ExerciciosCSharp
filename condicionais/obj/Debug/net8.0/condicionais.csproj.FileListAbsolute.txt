@@ -1,0 +1,14 @@
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\bin\Debug\net8.0\condicionais.exe
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\bin\Debug\net8.0\condicionais.deps.json
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\bin\Debug\net8.0\condicionais.runtimeconfig.json
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\bin\Debug\net8.0\condicionais.dll
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\bin\Debug\net8.0\condicionais.pdb
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.dll
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\refint\condicionais.dll
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.pdb
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\condicionais.genruntimeconfig.cache
+C:\Users\fic\Desktop\exercicioscsharp\condicionais\obj\Debug\net8.0\ref\condicionais.dll
