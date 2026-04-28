@@ -132,9 +132,9 @@ class Program
 
 
         Console.Write("Digite uma opção: A B ou C: ");
-        string opcao=Console.ReadLine();//.ToUpper(); ou .ToLower();
+        string escolha=Console.ReadLine();//.ToUpper(); ou .ToLower();
 
-        switch(opcao){
+        switch(escolha){
 
             case "A" or "a":
                 Console.WriteLine("A");
