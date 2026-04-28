@@ -131,25 +131,25 @@ class Program
 
 
 
-        Console.Write("Digite uma opção: A B ou C: ");
-        string escolha=Console.ReadLine();//.ToUpper(); ou .ToLower();
+        // Console.Write("Digite uma opção: A B ou C: ");
+        // string escolha=Console.ReadLine();//.ToUpper(); ou .ToLower();
 
-        switch(escolha){
+        // switch(escolha){
 
-            case "A" or "a":
-                Console.WriteLine("A");
-                break;
+        //     case "A" or "a":
+        //         Console.WriteLine("A");
+        //         break;
 
-            case "B" or "b":
-                Console.WriteLine("B");
-                break;
-            case "C" or "c":
-                Console.WriteLine("C");
-                break;
-            default:
-                Console.WriteLine("nenhum deles");
-                break;
-        }
+        //     case "B" or "b":
+        //         Console.WriteLine("B");
+        //         break;
+        //     case "C" or "c":
+        //         Console.WriteLine("C");
+        //         break;
+        //     default:
+        //         Console.WriteLine("nenhum deles");
+        //         break;
+        // }
 
 
 
