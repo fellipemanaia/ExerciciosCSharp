@@ -137,9 +137,10 @@ class Program
                 break;
 
             case "medio6":
+
                 Console.Write("Digite o valor da sua compra: ");
-                int compra= int.Parse(Console.ReadLine());
-                Console.WriteLine(compra<200 ? "5% de desconto":"15% de desconto");
+                decimal compra= decimal.Parse(Console.ReadLine());
+                Console.WriteLine(compra<200 ? compra * 0.95m: compra * 0.85m);
                 break;
 
             case "medio7":
@@ -207,12 +208,14 @@ class Program
             case "dificil1":
                 Console.Write("Digite sua nota: ");
                 decimal nota=decimal.Parse(Console.ReadLine());
-                if(nota>=7){
+                if(nota>=7&&nota<=10){
                     Console.WriteLine("Aprovado");
                 }else if(nota>=5){
                     Console.WriteLine("Recuperação");
-                }else{
+                }else if(nota<5){
                     Console.WriteLine("Reprovado");
+                }else{
+                    Console.WriteLine("Nota inválida");
                 }
                 break;
             
@@ -255,13 +258,13 @@ class Program
                 Console.Write("Usuario: ");
                 string usuario=Console.ReadLine();
                 Console.Write("Senha: ");
-                string senha=Console.ReadLine();
-                if(usuario=="admin"&&senha=="1234" && tentativas>=0){
+                string senha1=Console.ReadLine();
+                if(usuario=="admin" && senha1=="1234" && tentativas>=0){
                     Console.WriteLine("Logado");
                 }else if(usuario!="admin"){
                     Console.WriteLine("Usuario não encontrado");
                     tentativas= tentativas-1;
-                }else if(senha!="1234"){
+                }else if(senha1!="1234"){
                     Console.WriteLine("Senha incorreta");
                     tentativas=tentativas-1;
                 }else if(tentativas<0){
