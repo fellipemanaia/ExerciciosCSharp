@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\bin\Debug\net8.0\repeticao.exe
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\bin\Debug\net8.0\repeticao.deps.json
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\bin\Debug\net8.0\repeticao.runtimeconfig.json
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\bin\Debug\net8.0\repeticao.dll
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\bin\Debug\net8.0\repeticao.pdb
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.sourcelink.json
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.dll
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\refint\repeticao.dll
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.pdb
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\repeticao.genruntimeconfig.cache
+C:\Users\fic\Desktop\exercicioscsharp\repeticao\obj\Debug\net8.0\ref\repeticao.dll
