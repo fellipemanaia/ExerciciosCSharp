@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\bin\Debug\net8.0\projetoLanchonete.exe
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\bin\Debug\net8.0\projetoLanchonete.deps.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\bin\Debug\net8.0\projetoLanchonete.runtimeconfig.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\bin\Debug\net8.0\projetoLanchonete.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\bin\Debug\net8.0\projetoLanchonete.pdb
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.sourcelink.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\refint\projetoLanchonete.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.pdb
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\projetoLanchonete.genruntimeconfig.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoLanchonete\obj\Debug\net8.0\ref\projetoLanchonete.dll
