@@ -5,8 +5,8 @@ using System.Threading.Tasks;
 
 namespace projetoLanchonete
 {
-    public class Sobremesa : Produto
+    public interface IDesconto
     {
-        
+        decimal AplicarDesconto(decimal valor);
     }
 }
