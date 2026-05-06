@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\bin\Debug\net8.0\projetoPassagens.exe
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\bin\Debug\net8.0\projetoPassagens.deps.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\bin\Debug\net8.0\projetoPassagens.runtimeconfig.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\bin\Debug\net8.0\projetoPassagens.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\bin\Debug\net8.0\projetoPassagens.pdb
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.sourcelink.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\refint\projetoPassagens.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.pdb
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\projetoPassagens.genruntimeconfig.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoPassagens\obj\Debug\net8.0\ref\projetoPassagens.dll
