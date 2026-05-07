@@ -1,0 +1,15 @@
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\bin\Debug\net8.0\projetoCursos.exe
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\bin\Debug\net8.0\projetoCursos.deps.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\bin\Debug\net8.0\projetoCursos.runtimeconfig.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\bin\Debug\net8.0\projetoCursos.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\bin\Debug\net8.0\projetoCursos.pdb
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.AssemblyInfoInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.AssemblyInfo.cs
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.csproj.CoreCompileInputs.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.sourcelink.json
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\refint\projetoCursos.dll
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.pdb
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\projetoCursos.genruntimeconfig.cache
+C:\Users\fic\Desktop\exercicioscsharp\projetoCursos\obj\Debug\net8.0\ref\projetoCursos.dll
