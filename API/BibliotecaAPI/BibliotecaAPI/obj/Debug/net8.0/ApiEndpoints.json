@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "BibliotecaAPI.Controllers.LivroController",
+    "Method": "Listar",
+    "RelativePath": "api/Livro",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
