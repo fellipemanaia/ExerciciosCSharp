@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Titulo": "string",
+    "Autor": "string",
+    "AnoPublicacao": 1,
+    "Disponivel": true
+  }
+]

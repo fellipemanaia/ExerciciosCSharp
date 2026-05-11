@@ -36,5 +36,28 @@ namespace BibliotecaAPI.Services
             }
             return _repository.Adicionar(livro);
         }
+
+        public bool Atualizar(int id, Livro livro)
+        {
+            if (string.IsNullOrWhiteSpace(livro.Titulo))
+            {
+                throw new Exception("O Titulo é obrigatório");
+            }
+            if (string.IsNullOrWhiteSpace(livro.Autor))
+            {
+                throw new Exception("O Autor é obrigatório");
+            }
+            if (livro.AnoPublicacao <= 0)
+            {
+                throw new Exception("O Ano de publicação é obrigatório");
+            }
+
+            return _repository.Atualizar(id, livro);
+        }
+
+        public bool Remover(int id)
+        {
+            return _repository.Remover(id);
+        }
     }
 }

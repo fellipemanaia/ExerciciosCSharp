@@ -10,7 +10,7 @@ namespace BibliotecaAPI.Controllers
     public class LivroController : ControllerBase
     {
         private readonly LivroService _service;
-        public LivroController(LivroService service)   
+        public LivroController(LivroService service)
         {
             _service = service;
         }
@@ -23,9 +23,9 @@ namespace BibliotecaAPI.Controllers
             return Ok(livros);
             //return StatusCode(200,livros);
         }
-        [HttpGet("{id")]
+        [HttpGet("{id}")]
         //"/api/Livro/5"
-        public ActionResult BuscarPorId(int id) 
+        public ActionResult BuscarPorId(int id)
         {
             Livro livro = _service.BuscarPorId(id);
             if (livro == null)
@@ -33,21 +33,60 @@ namespace BibliotecaAPI.Controllers
                 return NotFound("Livro não encontrado");
             }
             return Ok(livro);
-            
+
         }
         [HttpPost]
-        public ActionResult Adicionar(Livro livro) 
+        public ActionResult Adicionar(Livro livro)
         {
             try
             {
                 Livro novoLivro = _service.Adicionar(livro);
                 return Created();
             }
-            catch (Exception erro) 
+            catch (Exception erro)
             {
                 return BadRequest(erro.Message);
             }
         }
 
+        [HttpPut("{id}")]
+        public ActionResult Atualizar(int id, Livro livro)
+        {
+            bool atualizado = _service.Atualizar(id, livro);
+
+            try
+            {
+                if (!atualizado)
+                {
+                    return NotFound("Livro não encontrado");
+                }
+                return Ok("Livro Atualizado com sucesso!");
+            }
+            catch (Exception erro)
+            {
+                return BadRequest(erro.Message);
+            }
+
+
+        }
+
+        [HttpDelete("{id}")]
+        public ActionResult Remover(int id)
+        {
+            bool removido = _service.Remover(id);
+
+            try
+            {
+                if (!removido)
+                {
+                    return NotFound("Livro não encontrado");
+                }
+                return NoContent();
+            }
+            catch (Exception erro)
+            {
+                return BadRequest(erro.Message);
+            }
+        }
     }
 }
